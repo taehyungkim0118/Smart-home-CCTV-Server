@@ -16,3 +16,6 @@
 
 ### 대표 이미지
 
+![대표도](https://user-images.githubusercontent.com/58294301/69857277-f4efa680-12d2-11ea-9a63-37ebfcf3f061.gif)
+
+![서버](https://user-images.githubusercontent.com/58294301/69857293-03d65900-12d3-11ea-9d1c-5952d39f1669.gif)

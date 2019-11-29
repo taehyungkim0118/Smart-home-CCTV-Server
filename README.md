@@ -1,10 +1,18 @@
 # 스마트폰과 아두이노를 이용한 원격제어 얼굴인식 CCTV(Server)
 
-### 사용 기술
+### 사용 기술 및 
 
 * Google Vision API
 
 * OpenCV
+
+* USB Serial Communication
+
+* Socket Communication
+
+* TTS(Text To Speech)
+
+* Push Alram
 
 ### 개발 환경
 
